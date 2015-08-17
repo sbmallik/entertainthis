@@ -1,4 +1,4 @@
-@front @entertainthis @top5
+@selenium @usat @front @ET @top5
 Feature: Top 5 trending stories
 	This module contains the top 5 stories with most concurrent users and this is powered by chartbeat.
 
